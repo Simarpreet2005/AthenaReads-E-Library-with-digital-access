@@ -1,4 +1,4 @@
-# E-Library Management System
+# AthenaReads-E-Library Management System
 
 A modern, elegant library management system built with PHP and MySQL, featuring a dark academia theme.
 
@@ -15,6 +15,7 @@ A modern, elegant library management system built with PHP and MySQL, featuring 
 - 👥 **User Management**
   - User registration and authentication
   - Role-based access (Admin/User)
+
   - User profiles and settings
 
 - 🔄 **Borrowing System**
